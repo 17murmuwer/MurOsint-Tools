@@ -17,3 +17,4 @@ pip install requests
 Примечание:
 Проект был протестирован на операционной системе Kali Linux и должен работать корректно. Если у вас возникли проблемы с запуском или использованием утилит, обратитесь ко мне для получения помощи.
 ![Логотип](Screenshot_2.png)
+just for educational purposes, so i am not responsible for its use
